@@ -3,6 +3,7 @@
     - [账号相关](account.md)
 	- [穿透码相关](code.md)
 	- [节点与带宽](node.md)
+  - [客户端使用](client.md)
 	
 - 原 MossFrp 使用萌新教程(以下已作废留以纪念)
   - 网页使用
