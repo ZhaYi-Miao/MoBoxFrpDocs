@@ -1,6 +1,15 @@
 ﻿## 关于此文档
 
-> 此帮助文档编辑者为 `ZhaYi` QQ：822585140 ，并非MoBoxLab Team官方编写  ~仅适用于小萌新~
+> 此帮助文档编辑者为 `ZhaYi` QQ：822585140 ，并非MoBoxLab Team官方编写，此文档与官方无关，仅代表个人观点  ~仅适用于小萌新~
+
+## MoBoxFrp官方网址
+
+主站：https://www.moboxfrp.top
+
+备站：https://panel.moboxfrp.top
+
+国内站（未完工）：https://www.moboxfrp.com
+
 
 !> 一般都是在晚上撸文档，有错别字和表达欠妥欢迎[来这里](https://qm.qq.com/q/ChD0pf2n6M) 发截图告诉我
 

@@ -12,6 +12,8 @@ Body 统一为 `application/json`
 
 ## Login登录请求
 
+!> 登录密码错误次数过多可能会触发风控
+
 使用API必须的请求，会返回一个token，后续不管什么操作都要使用
 
 URL：
@@ -191,6 +193,8 @@ URL：
 ```
 
 ## SignInCheck - 签到状态
+
+!> 签到接口有风控，非正常请求会被拦截
 
 URL：
 `https://www.moboxfrp.top/API/SignIn/Check`
