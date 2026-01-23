@@ -6,6 +6,10 @@
 	- [节点与带宽](node.md)
 	
   - [客户端使用](client.md)
+  
+- 开发者相关
+  
+  - [API接口说明](api.md)
 	
 - Q&A
   - [穿透常见问题](mossfrp/frpQ&A.md)
