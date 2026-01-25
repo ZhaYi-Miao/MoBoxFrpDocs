@@ -7,6 +7,8 @@
 	
   - [客户端使用](client.md)
   
+  - [起飞（联机）前检查单](checklist.md)
+  
 - 开发者相关
   
   - [API接口说明](api.md)

@@ -10,6 +10,7 @@
 - 超低占用：客户端在系统内占用极小，不影响流畅性
 
 [官方网站](https://www.moboxfrp.top)
+[联机前检查单](checklist.md)
 [查看文档](#关于此文档)
 <span id="busuanzi_container_site_pv" style='display:none'>
     👀 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
