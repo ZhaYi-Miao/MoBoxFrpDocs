@@ -15,7 +15,11 @@
 
 ![codetime2](_image/qa/codetime2.png)
 
-检查这里的 `到期时间`
+检查这里的 `到期时间` 和运行状态
+
+如果显示 `已过期`，请立即创建新的穿透码或者续费穿透码
+
+![codetime3](_image/qa/codetime3.png)
 
 ### 带宽是否充足
 
